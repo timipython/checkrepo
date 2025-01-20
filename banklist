@@ -1,4 +1,9 @@
 NAME OF THE BANK                           |         LOCATION
 ..............................................................................
 01 GT BANK                                     ALEIN IKEJA LAGOS 
+<<<<<<< HEAD
 02 UBA BANK                                    ALIEN IKEJA LAGOS
+=======
+02 UBA BANK
+03 ACCESS BANK                                 MARINA VI LAGOS
+>>>>>>> 5788d34 (bank list increased)
